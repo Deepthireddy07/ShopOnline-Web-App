@@ -82,7 +82,7 @@
                 <span class="ml-3 text-xl logo-text-top"><text  style="font-size: 50px; font-family:'Montserrat', sans-serif;color: #000000;">ShopOnline</text></span>
             </a>
               <nav class="nav-items animate__animated animate__slideInRight md:ml-auto flex flex-wrap items-center text-base justify-center font-bold">
-                <a class="mr-5 hover:text-gray-900" href="index.html">Home</a>
+                <a class="mr-5 hover:text-gray-900" href="index.php">Home</a>
                 <a class="mr-5 hover:text-gray-900" href="login.html">Login</a>
                 <a class="mr-5 hover:text-gray-900" href="#signup">Sign Up</a>
                 <a class="mr-5 hover:text-gray-900" href="admin.html">Admin</a>
@@ -272,9 +272,9 @@
                 </div>
                 <div class="links">
                   <h4 style="font-weight: 700;">Quick links</h4>
-                  <p><a href="./index.html">Home</a></p>
+                  <p><a href="./index.php">Home</a></p>
                   <p><a href="./login.html">Login</a></p>
-                  <p><a href="./index.html#signup">Sign up</a></p>
+                  <p><a href="./index.php#signup">Sign up</a></p>
                   <p><a href="./admin.html">Admin</a></p>
                 </div>
                 <div class="details">
